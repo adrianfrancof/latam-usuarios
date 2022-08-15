@@ -43,7 +43,6 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 
 ## Construido con 🛠️
 
-* [SpringSecurity]()
 * [Spring Web]()
 * [Spring Boot]()
 * [Hibernate]()
